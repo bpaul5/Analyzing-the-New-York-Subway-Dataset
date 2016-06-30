@@ -1,1 +1,1 @@
-Contains notes from lessons 2-4 
+#Contains notes from lessons 2-4 
