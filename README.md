@@ -5,16 +5,10 @@ Used data science techniques including data wrangling, applied statistics and ma
 
 Topics include:
 
--Python
-
--Numpy
-
--pandas
-
--ggplot
-
--Linear regression
-
--SQL queries
-
--pandaSQL
+- Python
+- Numpy
+- pandas
+- ggplot
+- Linear regression
+- SQL queries
+- pandaSQL
