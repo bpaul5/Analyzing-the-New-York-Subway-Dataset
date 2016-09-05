@@ -1,5 +1,5 @@
 # Analyzing the New York Subway Dataset
-Udacity_Project_2
+Udacity Project 2
 
 Summary:
 
